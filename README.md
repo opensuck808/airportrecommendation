@@ -3,8 +3,8 @@
 [![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online)
 
 NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备数量、流媒体与 AI 工具支持情况，并按照当前资料给出综合排名。机场通常需要先注册并购买订阅，再将订阅链接导入 Clash、Clash Mi、Shadowrocket、Stash、Surge、v2rayN 等第三方客户端。
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" />
 
-> **注意：**订阅链接等同于账号密码，不要公开分享，也不要提交到 GitHub。发现流量异常时，应立即进入服务后台重置订阅链接。下方部分官网按钮包含邀请参数，通过链接注册不会增加购买价格。
 
 ## 省流推荐
 
