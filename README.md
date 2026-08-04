@@ -336,6 +336,7 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 
 ## 11. 瞬云：ANYCAST 与原生 IP 不限时套餐
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/6d2f3c1f-d525-44e5-9ed7-8ae3305f197c" />
 
 
 - ANYCAST 高速节点
@@ -365,9 +366,8 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 
 ## 12. 大哥云：Trojan、IPLC 与免费试用
 
-> 图片占位符：在另一个仓库中添加 `images/dage-cloud.webp`
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b5130ef6-5fad-4e61-b476-ab49955da0cb" />
 
-![大哥云图片](./images/dage-cloud.webp)
 
 - 页面标注运营约 5 年
 - 提供免费试用
