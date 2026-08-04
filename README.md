@@ -34,9 +34,8 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 
 ## 1. Flybit机场：2026 性价比首选
 
-> 图片占位符：在另一个仓库中添加 `images/flybit.webp`
 
-![Flybit机场图片](./images/flybit.webp)
+<img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/5e5bf457-28f1-43b2-8782-80fd41c63f26" />
 
 - IEPL 专线
 - 月付与一次性不限时套餐
@@ -65,9 +64,8 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 ## 2. 飞鸟云：低价周期套餐与按量流量包
 
-> 图片占位符：在另一个仓库中添加 `images/feiniaoyun.webp`
 
-![飞鸟云图片](./images/feiniaoyun.webp)
+<img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/4b9febb1-e3ba-428d-ae79-c38d7f03743b" />
 
 - 低价年付与月付套餐
 - 不限时按量流量包
@@ -97,9 +95,8 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 ## 3. 极速云机场：2026 高端首选
 
-> 图片占位符：在另一个仓库中添加 `images/jisu-cloud.webp`
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a5e92a05-c7f8-419e-8476-b33dfbff9e1f" />
 
-![极速云机场图片](./images/jisu-cloud.webp)
 
 - 中转与直连高速节点
 - 大流量月付套餐
@@ -130,9 +127,8 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 ## 4. 魔戒：不限时按量付费首选之一
 
-> 图片占位符：在另一个仓库中添加 `images/mojie.webp`
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a6b83808-9b35-4316-b157-efe34a4c19ef" />
 
-![魔戒图片](./images/mojie.webp)
 
 - 一次性按量计费
 - 流量不按月重置
