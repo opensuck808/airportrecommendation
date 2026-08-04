@@ -1,5 +1,6 @@
 # 2026 年 8 月机场推荐
 
+## 建议在线浏览，因为GitHub不允许新开外链，在线浏览允许，方便多个窗口对比
 [![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online)
 
 NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备数量、流媒体与 AI 工具支持情况，并按照当前资料给出综合排名。机场通常需要先注册并购买订阅，再将订阅链接导入 Clash、Clash Mi、Shadowrocket、Stash、Surge、v2rayN 等第三方客户端。
