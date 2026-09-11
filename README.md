@@ -1,4 +1,4 @@
-# 2026 年 9 月最新稳定高速机场推荐与科学上网梯子、VPN测评指南
+# 2026 年 9 月最新稳定高速机场测评和推荐
 
 ## 建议在线浏览，因为GitHub不允许新开外链，在线浏览允许，方便多个窗口对比，并且在线浏览有详细的配置教程，点击下方的 **noderadar.online**（先按需求购买套餐，然后再下载客户端完成配置）
 [![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online) [![配置教程](https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge)](./configuration-guide.md)
